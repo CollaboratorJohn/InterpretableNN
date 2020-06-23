@@ -1,2 +1,2 @@
 # InterpretableNN
-A method to interprete CNN classifier
+A method to interprete CNN classifiers
